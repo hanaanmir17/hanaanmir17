@@ -9,6 +9,9 @@
 </tr>
 </table>
 
+<p><b>TSE-1 @ SAP x WalkMe | MSc @ Leeds Beckett University</b></p>
+<p>Someone who loves technology</p>
+
 <br>
 <br>
 
