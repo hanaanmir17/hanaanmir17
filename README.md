@@ -10,7 +10,7 @@
 </table>
 
 <p><img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" height="22" align="center" alt="SAP" /> <b>TSE-1 @ SAP x WalkMe | MSc @ Leeds Beckett University</b></p>
-<p>Someone who loves technology</p>
+<p>In love with Technology!</p>
 
 <br>
 <br>
