@@ -46,13 +46,6 @@
 <br>
 <br>
 
-<h3><code>hanaan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./heatmap.svg" width="750" alt="Hanaan's GitHub contribution graph" />
-
-<br>
-<br>
-
 <h3><code>hanaan@github ~ $ ./links.sh</code></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hanaanmir17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanaanmir17/)
