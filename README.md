@@ -6,6 +6,7 @@
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 
 **Languages**
 
