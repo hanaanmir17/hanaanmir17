@@ -1,7 +1,5 @@
 <div align="center">
 
-<h3><code>hanaan@github ~ $ ./stack.sh</code></h3>
-
 **Networking**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -33,8 +31,6 @@
 
 <br>
 <br>
-
-<h3><code>hanaan@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
