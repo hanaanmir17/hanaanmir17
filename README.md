@@ -45,7 +45,6 @@
 <br>
 <br>
 
-<h3><code>hanaan@github ~ $ ./links.sh</code></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hanaanmir17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanaanmir17/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanaanmir17?tab=repositories)
