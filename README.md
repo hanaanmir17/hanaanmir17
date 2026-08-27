@@ -19,6 +19,7 @@
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-000000?style=flat-square&logo=neon&logoColor=white)
 
 **Tools & Platforms**
 
